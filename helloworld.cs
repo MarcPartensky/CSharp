@@ -1,4 +1,4 @@
-#!/usr/bin/env csx.py
+#!/usr/bin/env ./csx.py
 
 using System;
 
